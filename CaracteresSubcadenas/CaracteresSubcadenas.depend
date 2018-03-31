@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521142092 source:c:\users\daniel díaz\documents\proyectos-omega\caracteressubcadenas\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+
